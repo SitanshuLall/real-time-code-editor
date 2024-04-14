@@ -27,6 +27,7 @@
     "start:front": "react-scripts start",
     "start": "npm run build",
     "build": "react-scripts build",
+    "newbuild": "npm install",
     "server:dev": "nodemon server.js",
     "server:prod": "node server.js",
     "test": "react-scripts test",
